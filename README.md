@@ -1,6 +1,6 @@
-##Nonie
+##_Nonie_
 
-#A girl who loves coding
+# A girl who loves coding
 
 > 18 years old
 > L1 at HEI and CNTEMAD
