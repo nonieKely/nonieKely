@@ -6,7 +6,7 @@
 > 
 > L1 at HEI and CNTEMAD
 > 
-> 90% sincerity , ambivert
+> 90% sincerity , ambivert , Serious when it's necessary
 > 
 > Favorite foods : Cassava , tacos and "mofo akondro"
 > 
