@@ -16,6 +16,6 @@ cat skills.txt
 JavaScript ReactJs ExpressJs
 Java .SpringBoot(soon)
 Postgresql
-Python(just for fun)
+Python(just_for_fun)
 
 ```
