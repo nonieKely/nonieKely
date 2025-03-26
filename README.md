@@ -4,7 +4,7 @@
 
 > 18 years old
 > 
-> L1 at HEI and CNTEMAD
+> L2 at HEI
 > 
 > 90% sincerity , ambivert , Serious when it's necessary
 > 
@@ -12,7 +12,7 @@
 > 
 > Favorite colors : #F0BE86, #DC98BD , #C5C5A9
 > 
-> Favorite type of person : a joyful person, a sincere person, someone who is humble, someone ambitious
+> Favorite type of friend : a joyful person, a sincere person, someone who is humble, someone ambitious
 
 
 ```sh
